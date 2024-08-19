@@ -28,4 +28,4 @@ jobs:
       with:
         context: ./build
         push: true
-        tags: manjieqi/claude2vertex:latest
+        tags: blackmini/claude2vertex:latest
